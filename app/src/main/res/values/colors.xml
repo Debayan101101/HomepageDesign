@@ -6,6 +6,7 @@
     <color name="yellow">#f6f043</color>
     <color name="green">#22ee47</color>
     <color name="gray">#bebad4</color>
-    <color name="orrange">#228222ff</color>
+    <color name="orrange">#22ff9c22</color>
     <color name="black">#141414</color>
+    <color name="white">#18eff7ee</color>
 </resources>
